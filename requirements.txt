@@ -6,3 +6,4 @@ urlextract
 emoji
 numpy
 wordcloud
+plotly
