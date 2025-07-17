@@ -7,3 +7,4 @@ emoji
 numpy
 wordcloud
 plotly
+fpdf2
