@@ -8,3 +8,4 @@ numpy
 wordcloud
 plotly
 fpdf2
+textblob
